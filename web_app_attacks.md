@@ -1,0 +1,65 @@
+# Web application attacks
+
+- Arbitrary file access
+- Binary planting
+- Blind SQL Injection
+- Blind XPath Injection
+- Brute force attack
+- Buffer overflow attack
+- Cache Poisoning
+- Cash Overflow
+- Clickjacking
+- Command injection attacks
+- Comment Injection Attack
+- Content Security Policy
+- Content Spoofing
+- Credential stuffing
+- Cross Frame Scripting
+- Cross Site History Manipulation (XSHM)
+- Cross Site Tracing
+- Cross-Site Request Forgery (CSRF)
+- Cross Site Port Attack (XSPA)
+- Cross-Site Scripting (XSS)
+- Cross-User Defacement
+- Custom Special Character Injection
+- Denial of Service
+- Direct Dynamic Code Evaluation (‘Eval Injection’)
+- Execution After Redirect (EAR)
+- Exploitation of CORS
+- Forced browsing
+- Form action hijacking
+- Format string attack
+- Full Path Disclosure
+- Function Injection
+- Host Header injection
+- HTTP Response Splitting
+- HTTP verb tampering
+- HTML injection
+- LDAP injection
+- Log Injection
+- Man-in-the-browser attack
+- Man-in-the-middle attack
+- Mobile code: invoking untrusted mobile code
+- Mobile code: non-final public field
+- Mobile code: object hijack
+- One-Click Attack
+- Parameter Delimiter
+- Page takeover
+- Path Traversal
+- Reflected DOM Injection
+- Regular expression Denial of Service – ReDoS
+- Repudiation Attack
+- Resource Injection
+- Server-Side Includes (SSI) Injection
+- Session fixation
+- Session hijacking attack
+- Session Prediction
+- Setting Manipulation
+- Special Element Injection
+- SMTP injection
+- SQL Injection
+- SSI injection
+- Traffic flood
+- Web Parameter Tampering
+- XPATH Injection
+- XSRF or SSRF
