@@ -61,6 +61,10 @@
 2. [Buggy Web Application](http://www.itsecgames.com/)
 3. [OWASP Mutillidae](https://github.com/webpwnized/mutillidae)
 
+### Search, hack, learn
+1. [Ethical Hacking topics](https://github.com/NAVHITS/cyber-security-resources/blob/master/self_learning_topics.md)
+2. [Web application attacks](https://github.com/NAVHITS/cyber-security-resources/blob/master/web_app_attacks.md)
+
 ## Vulnerable VMs to practice hacking
 1. [MetaSploitable](https://sourceforge.net/projects/metasploitable/)
 2. [VulnHub](https://www.vulnhub.com/)
