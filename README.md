@@ -23,6 +23,13 @@
 ## Cyber Security Courses
 1. [Cybrary](https://cybrary.it/)
 
+## Good to read PDFs
+1. [Penetration Testing With Kali Linux](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/pwk.pdf)
+2. [Windows Penetration Testing](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/windows_pentesting.pdf)
+3. [WireShark Essentials](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/wireshark_essentials.pdf)
+4. [Mastering Metasploit 1st edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v1.pdf)
+5. [Mastering Metasploit 2nd edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v2.pdf)
+
 ## For reasearchers
 1. [Exploit DB](https://www.exploit-db.com/)
 2. [VirusTotal](https://www.virustotal.com)
