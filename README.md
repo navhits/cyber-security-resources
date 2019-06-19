@@ -25,7 +25,7 @@
 1. [NullByte](https://null-byte.wonderhowto.com/) 
 2. [BruteLogic XSS](https://brutelogic.com.br/blog/)
 3. [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
-4. [Kali Liunx Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
+4. [Hacker101](https://www.hackerone.com/hacker101)
 
 ## Cyber Security Courses
 1. [Cybrary](https://cybrary.it/)
@@ -37,6 +37,7 @@
 4. [Mastering Metasploit 1st edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v1.pdf)
 5. [Mastering Metasploit 2nd edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v2.pdf)
 6. [Cracking Active Directory Passwords](https://pen-testing.sans.org/resources/papers/gpen/cracking-active-directory-passwords-how-cook-ad-crack-139215)
+7. [Kali Liunx Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
 
 ## For reasearchers
 1. [Exploit DB](https://www.exploit-db.com/)
@@ -75,3 +76,8 @@
 1. [CTFtime](https://ctftime.org/)
 2. [Cyber Security Challenge](https://www.cybersecuritychallenge.org.uk/)
 3. [SANS Netwars](https://www.sans.org/netwars)
+
+## Vulnerability Rewards Program
+1. [HackerOne](https://www.hackerone.com/)
+2. [BugCrowd](https://www.bugcrowd.com/)
+3. [Google Vulnerability Rewards Program](https://bughunter.withgoogle.com/)
