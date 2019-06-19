@@ -9,6 +9,13 @@
 5. [Sophos Security Center](https://home.sophos.com/en-us/security-center.aspx)
 6. [InfoSec Resources](https://resources.infosecinstitute.com/)
 
+## The StackOverflow for Cyber Security
+1. [Inforamtion Security Stack Exchange](https://security.stackexchange.com/)
+
+## Linux essentials
+1. [Beginners guide to Linux](https://www.lifewire.com/beginners-guide-to-linux-4090233)
+2. [Linux Notes for Professionals](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/LinuxNotesForProfessionals.pdf)
+
 ## Setup your hacking lab
 1. [Kali Linux](https://kali.org)
 2. [Parrot Security OS](https://www.parrotsec.org/)
@@ -29,6 +36,7 @@
 3. [WireShark Essentials](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/wireshark_essentials.pdf)
 4. [Mastering Metasploit 1st edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v1.pdf)
 5. [Mastering Metasploit 2nd edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v2.pdf)
+6. [Cracking Active Directory Passwords](https://pen-testing.sans.org/resources/papers/gpen/cracking-active-directory-passwords-how-cook-ad-crack-139215)
 
 ## For reasearchers
 1. [Exploit DB](https://www.exploit-db.com/)
@@ -46,6 +54,7 @@
 5. [Hack This Site](https://www.hackthissite.org/)
 6. [Hack The Box](https://www.hackthebox.eu/)
 7. [Immersive Labs Community version](https://community.immersivelabs.online/)
+8. [Safe Page](https://safe.page)
 
 ### Local (Offline) labs
 1. [Damn Vulnerable Web App](http://www.dvwa.co.uk/)
