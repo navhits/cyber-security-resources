@@ -29,6 +29,7 @@
 
 ## Youtube Channels
 1. [DC CyberSec](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+2. [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 ## Cyber Security Courses
 1. [Cybrary](https://cybrary.it/)
