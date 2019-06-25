@@ -27,6 +27,9 @@
 3. [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 4. [Hacker101](https://www.hackerone.com/hacker101)
 
+## Youtube Channels
+1. [DC CyberSec](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+
 ## Cyber Security Courses
 1. [Cybrary](https://cybrary.it/)
 
