@@ -42,7 +42,7 @@
 5. [Mastering Metasploit 2nd edition](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/mastering_metasploit_v2.pdf)
 6. [Cracking Active Directory Passwords](https://pen-testing.sans.org/resources/papers/gpen/cracking-active-directory-passwords-how-cook-ad-crack-139215)
 7. [Kali Liunx Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
-8. [Free PacktPub PDFs on Cyber Seucrity](https://drive.google.com/drive/folders/1LvUpo_-KBKJ6PfKj3smB6nBjRHc7XFiK?usp=sharing)
+8. [Free PacktPub PDFs on Cyber Seucrity](https://drive.google.com/drive/folders/1LvUpo_-KBKJ6PfKj3smB6nBjRHc7XFiK?usp=sharing) (Taken down - will be updated soon)
 9. [Red Team Guide](https://github.com/NAVHITS/cyber-security-resources/blob/master/assets/The_Red_Team_Guide_by_Peerlyst_community_da8swa.pdf)
 
 ## For reasearchers
